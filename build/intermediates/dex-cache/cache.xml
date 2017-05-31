@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\studio project\GPXDemo\app\libs\log4j.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="56a0dc58b7f3a9c83bb9aac083acf4ee405b8c5b">
+        <dex dex="E:\studio project\GPXDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\log4j_be15582f8b5ddf21354de4124241d911324dd219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio project\GPXDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\studio project\GPXDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_63bb888d2568df6794c05ff84968fd4057098d2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio project\GPXDemo\app\libs\gpxparser-20130603.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13b608f8678d829d216670e4de01be7868068da2">
+        <dex dex="E:\studio project\GPXDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\gpxparser-20130603_b39fc4e3b161af6f97cef88ad6a881325746fcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\studio project\GPXDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd747171898d983f803c97aeff37a481e082ab2">
+        <dex dex="E:\studio project\GPXDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3d35d19b7abb9423f733482cc7abed47ff64ee28\classes.dex" />
+    </item>
+
+</items>
